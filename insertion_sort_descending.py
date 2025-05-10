@@ -14,3 +14,8 @@ if __name__ == "__main__":
     print("Original array:", numbers)
     insertion_sort_descending(numbers)
     print("Sorted array in decreasing order:", numbers)
+
+# the following is output we get after running the codes above. 
+    
+# Original array: [12, 4, 5, 3, 8, 7]
+# Sorted array in decreasing order: [12, 8, 7, 5, 4, 3]
